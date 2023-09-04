@@ -6,6 +6,22 @@ Breve descripción de la receta.
 
 | Cantidad  | Ingrediente | Opcional |
 | --- | --- | --- |
-| 60gr  | Aceite  | :heavy_check_mark: |
-| 100gr  | Cebolla  | |
+| 60gr  | Aceite  | |
+| 100gr  | Cebolla  | &check; |
 | 1  | Diente de Ajo  | |
+
+## Preparación
+
+Descripción de la preparación por pasos.
+
+1. Paso 1
+2. Paso 2
+3. Paso 3
+4. Paso 4
+5. Paso 5
+
+## Modificaciones
+
+## Fuente
+
+## Fotos / Videos
