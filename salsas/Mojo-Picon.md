@@ -18,7 +18,7 @@ No es el típico (y buenísimo) mojo picón Canario. Es una versión más "famil
 
 ## Preparación
 
-Descripción de la preparación por pasos.
+Para esta receta puedes usar la Thermomix. Yo personalmente uso una "minipimer" en un recipiente grande para batirlo todo.
 
 1. Dejar el Bollo en remojo con el Aceite, el Agua y el Vinagre duraten 10 minutos.
 2. Batir el Bollo.
