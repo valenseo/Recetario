@@ -4,7 +4,7 @@ No es el típico (y buenísimo) mojo picón Canario. Es una versión más "famil
 
 ## Ingredientes
 
-| Cantidad  | Ingrediente | Opcional |
+| Cantidad  | Ingrediente |
 | --- | --- |
 | 2  | Dientes de Ajo |
 | 2  | Vasos de Aceite |
