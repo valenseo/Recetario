@@ -20,7 +20,7 @@ No es el típico (y buenísimo) mojo picón Canario. Es una versión más "famil
 
 Para esta receta puedes usar la Thermomix. Yo personalmente uso una "minipimer" en un recipiente grande para batirlo todo.
 
-1. Dejar el Bollo en remojo con el Aceite, el Agua y el Vinagre duraten 10 minutos.
+1. Cortar en torzos el Bollo y dejarlo en remojo con el Aceite, el Agua y el Vinagre duraten 10 minutos.
 2. Batir el Bollo.
 3. Echar el resto de ingredentientes y volver a batir.
 
