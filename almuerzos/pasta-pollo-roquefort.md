@@ -16,8 +16,6 @@ Receta de La Angi! Simple y muy muy sabrosa!
 
 ## Preparación
 
-Descripción de la preparación por pasos.
-
 1. Cocer pasta, enjuagar con agua fría y reservar. A mi me gusta para esta receta los lazos de colores.
 1. Picar la cebolla.
 2. Trocear el pollo en pequeños cuadrados.
