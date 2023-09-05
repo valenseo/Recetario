@@ -8,17 +8,18 @@ Receta de La Angi! Simple y muy muy sabrosa!
 | --- | --- |
 | 1 | Paquete de Pasta |
 | 1 | Pechuga de Pollo |
+| - | Chorreon de Aceite |
 | 1 | Cebolla Pequeña |
-| - | Manzanilla (un chorreoncito jaja) | 
+| - | Manzanilla (otro chorreoncito jaja) | 
 | 200gr | Nata | 
 | 1 | Cuña de Roquefort pequeña | 
-| 1 | Diente de Ajo | 
+| - | Sal y Pimienta | 
 
 ## Preparación
 
 1. Cocer pasta, enjuagar con agua fría y reservar. A mi me gusta para esta receta los lazos de colores.
 1. Picar la cebolla.
-2. Trocear el pollo en pequeños cuadrados.
+2. Trocear el pollo en pequeños cuadrados y salpimentar al gusto.
 3. Sofreir la cebolla en la sartén hasta que se poche un poco.
 4. Echamos el pollo en la sartén. Remover de vez en cuando hasta que vamos que está hecho.
 5. Se echa la manzanilla en la sartén con el pollo y la cebolla. Si te gusta más el vino blanco, es otra opción.
