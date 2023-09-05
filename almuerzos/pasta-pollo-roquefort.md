@@ -21,7 +21,7 @@ Receta de La Angi! Simple y muy muy sabrosa!
 1. Picar la cebolla.
 2. Trocear el pollo en pequeños cuadrados y salpimentar al gusto.
 3. Sofreir la cebolla en la sartén hasta que se poche un poco.
-4. Echamos el pollo en la sartén. Remover de vez en cuando hasta que vamos que está hecho.
+4. Echamos el pollo en la sartén. Remover de vez en cuando hasta que veamos que está hecho.
 5. Se echa la manzanilla en la sartén con el pollo y la cebolla. Si te gusta más el vino blanco, es otra opción.
 6. Bajar la intensidad el fuego e incorporar la nata y el roquefort desmenuzado.
 7. Mover suavemente hasta que el roquefort ya no se vea.
